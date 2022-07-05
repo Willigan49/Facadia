@@ -6,7 +6,7 @@ const $userEmailErrorMsg = document.querySelector('.user-email-error-msg')
 const $userPasswordInput = document.querySelector('#user-password')
 const $userPasswordErrorMsg = document.querySelector('.user-password-error-msg')
 
-const USER_EMAIL = "thomas@facadia.com"
+const USER_EMAIL = "guillaume@facadia.com"
 const USER_PASSWORD = "azerty"
 
 const checkUserEmailInput = () => {
